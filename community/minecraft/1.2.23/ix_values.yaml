@@ -65,7 +65,7 @@ j21alpineImage:
 j21jdkImage:
   repository: itzg/minecraft-server
   pullPolicy: IfNotPresent
-  tag: 2025.1.0-java21-jdk
+  tag: 2024.12.0-java21-jdk
 
 resources:
   limits:
