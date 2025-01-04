@@ -218,6 +218,10 @@
                                         {
                                             "value": "j21alpineImage",
                                             "description": "Java 21 HotSpot (Alpine)"
+                                        },
+                                        {
+                                            "value": "j21jdkImage",
+                                            "description": "Java 21 HotSpot+JDK (Ubuntu)"
                                         }
                                     ]
                                 }
